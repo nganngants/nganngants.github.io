@@ -1,29 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to Ngan's profile!
 
-You can use the [editor on GitHub](https://github.com/nganngants/nganngants.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Self-introduction
+- **Name:** Vo Tran Thu Ngan
+- **Date of birth:** 27/10/2003
+- **Hometown:** Binh Dinh, Viet Nam
+- **Studying at:** Ho Chi Minh University of Information and Technology
+- **Major:** Computer Science
+- **Class:** KHTN2021
+- **Hobbies:** reading/writing novels, listening to music, watching moviels, editing videos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+- 2018 - 2021: Le Quy Don High School for Gifted Student
+- 2021 - now: Ho Chi Minh University of Information and Technology
 
-### Markdown
+## Accomplishments
+- Honorable Prize in VOI 2021
+- Third Prize in Provincial Excellent Student Competition in Informatics
+- Second Prize in VNU-UET's Programming Comptetition for High School Student (VNU-OI) 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Contact me
+- [email](21520069@gm.uit.edu.vn)
+- [FB](https://www.facebook.com/profile.php?id=100042360408029)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
