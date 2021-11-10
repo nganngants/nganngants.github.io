@@ -1,5 +1,7 @@
 # Welcome to Ngan's profile!
 
+![Image](assets/imp/me2.jpg)
+
 ## Self-introduction
 - **Name:** Vo Tran Thu Ngan
 - **Date of birth:** 27/10/2003
