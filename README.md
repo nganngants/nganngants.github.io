@@ -1,6 +1,6 @@
 # Welcome to Ngan's profile!
 
-![Image](assets/imp/me2.jpg)
+![Image](assets/img/me2.jpg)
 
 ## Self-introduction
 - **Name:** Vo Tran Thu Ngan
