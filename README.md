@@ -9,6 +9,7 @@
 - **Class:** KHTN2021
 - **Hobbies:** reading/writing novels, listening to music, watching moviels, editing videos.
 - **Programming language:** C++, C#
+
 ## Education
 - 2018 - 2021: Le Quy Don High School for Gifted Student
 - 2021 - now: Ho Chi Minh University of Information and Technology
