@@ -20,5 +20,5 @@
 - Second Prize in VNU-UET's Programming Comptetition for High School Student (VNU-OI) 2020
 
 ## Contact me
-- email: 21520069@gm.uit.edu.vn
+- email: nganngants@gmail.com
 - [FB](https://www.facebook.com/profile.php?id=100042360408029)
